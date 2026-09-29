@@ -52,9 +52,9 @@ print('Done')
 
 
 
-CLAUDE GUIDE TIL INSTALL
+# CLAUDE GUIDE TIL INSTALL
 __
-Har du tænkt på, at du skal stå i den rigtige undermappe på Ubuntu? På grund af den dobbelte mappestruktur ligger koden tre niveauer nede, og alle README'ens kommandoer regner med, at du står der.
+
 
 **1. Systempakker og repo**
 ```sh
